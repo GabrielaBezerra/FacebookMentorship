@@ -40,7 +40,18 @@
 - https://leetcode.com/problems/average-of-levels-in-binary-tree/
 - https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 - https://leetcode.com/problems/find-bottom-left-tree-value/
+- https://leetcode.com/problems/binary-tree-paths/
+- https://leetcode.com/problems/balanced-binary-tree
 
-## Week 2
+## Permutation
 
-To be continued...
+- https://leetcode.com/problems/letter-tile-possibilities/
+- https://leetcode.com/problems/all-paths-from-source-to-target/
+- https://leetcode.com/problems/letter-case-permutation/
+- https://leetcode.com/problems/generate-parentheses/
+- https://leetcode.com/problems/subsets/
+- https://leetcode.com/problems/combination-sum/
+- https://leetcode.com/problems/word-search/
+- https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
+- https://leetcode.com/problems/n-queens/
+- https://leetcode.com/problems/sudoku-solver/
