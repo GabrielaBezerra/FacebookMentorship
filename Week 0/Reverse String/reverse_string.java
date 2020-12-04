@@ -1,5 +1,7 @@
-
-// https://www.geeksforgeeks.org/collections-swap-method-in-java-with-examples/
+/* Challenge: https://leetcode.com/problems/reverse-string/
+ 
+Explain method swap in Java https://www.geeksforgeeks.org/collections-swap-method-in-java-with-examples/
+*/
 
 class Solution {
   public void reverseString(char[] s) {
